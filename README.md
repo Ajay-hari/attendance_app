@@ -1,16 +1,47 @@
-# attendance_app
+# 📚 Attendance Management System (Work in Progress)
 
-A new Flutter project.
+> 🚧 **Status:** This project is currently under development. New features and improvements are being added.
 
-## Getting Started
+## 📖 About the Project
 
-This project is a starting point for a Flutter application.
+Attendance Management System is a Flutter mobile application designed to simplify attendance tracking for educational institutions. The application provides separate modules for students and staff, enabling efficient attendance management.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Current Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔐 Firebase Authentication
+- 👨‍🎓 Student Login
+- 👨‍🏫 Staff Login
+- 📅 Attendance Tracking
+- ☁️ Firebase Firestore Database
+- 📱 Clean and Responsive UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Planned Features
+
+- Admin Panel
+- Attendance Reports
+- Timetable Management
+- Improved UI/UX
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Git & GitHub
+
+## 📱 Screenshots
+
+*Screenshots will be added soon.*
+
+## 👨‍💻 Developer
+
+**Ajay Hari**
+
+MCA Graduate | Flutter & Full-Stack Developer
+
+GitHub: https://github.com/Ajay-hari
+
+---
+
+⭐ This project is actively under development, and new features are being added regularly.
